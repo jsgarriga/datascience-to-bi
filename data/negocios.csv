@@ -1,0 +1,41 @@
+ID-negocio,Ciudad,Region,Pais,Tamanio-de-la-tienda
+negocio_0,New York,New York,USA,grande
+negocio_1,Los Angeles,California,USA,mediano
+negocio_2,San Diego,California,USA,mediano
+negocio_3,San Jose,California,USA,mediano
+negocio_4,San Francisco,California,USA,pequenio
+negocio_5,Houston,Texas,USA,pequenio
+negocio_6,San Antonio,Texas,USA,pequenio
+negocio_7,Chicago,Illinois,USA,pequenio
+negocio_8,Paris,Ile-de-France,Francia,pequenio
+negocio_9,Marseille,Provence-Alpes-Cote d'Azur,Francia,grande
+negocio_10,Nice,Provence-Alpes-Cote d'Azur,Francia,mediano
+negocio_11,Lyon,Auvergne-Rhone-Alpes,Francia,mediano
+negocio_12,Saint-Etienne,Auvergne-Rhone-Alpes,Francia,mediano
+negocio_13,New York,New York,USA,pequenio
+negocio_14,Los Angeles,California,USA,pequenio
+negocio_15,San Diego,California,USA,pequenio
+negocio_16,San Jose,California,USA,pequenio
+negocio_17,San Francisco,California,USA,pequenio
+negocio_18,Houston,Texas,USA,grande
+negocio_19,San Antonio,Texas,USA,mediano
+negocio_20,Chicago,Illinois,USA,mediano
+negocio_21,Paris,Ile-de-France,Francia,mediano
+negocio_22,Marseille,Provence-Alpes-Cote d'Azur,Francia,pequenio
+negocio_23,Nice,Provence-Alpes-Cote d'Azur,Francia,pequenio
+negocio_24,Lyon,Auvergne-Rhone-Alpes,Francia,pequenio
+negocio_25,Saint-Etienne,Auvergne-Rhone-Alpes,Francia,pequenio
+negocio_26,New York,New York,USA,pequenio
+negocio_27,Los Angeles,California,USA,grande
+negocio_28,San Diego,California,USA,mediano
+negocio_29,San Jose,California,USA,mediano
+negocio_30,San Francisco,California,USA,mediano
+negocio_31,Houston,Texas,USA,pequenio
+negocio_32,San Antonio,Texas,USA,pequenio
+negocio_33,Chicago,Illinois,USA,pequenio
+negocio_34,Paris,Ile-de-France,Francia,pequenio
+negocio_35,Marseille,Provence-Alpes-Cote d'Azur,Francia,pequenio
+negocio_36,Nice,Provence-Alpes-Cote d'Azur,Francia,grande
+negocio_37,Lyon,Auvergne-Rhone-Alpes,Francia,mediano
+negocio_38,Saint-Etienne,Auvergne-Rhone-Alpes,Francia,mediano
+negocio_39,New York,New York,USA,mediano
